@@ -3,9 +3,20 @@
   "displayName": "Builder Standards for Claude",
   "version": "0.1.0",
   "description": "A short, friendly style and rules sheet for people who build apps and games with Claude: a few quick questions (icons, buttons, colours), licence checks, reusable code, read-aloud buttons and tick-box guides. Every rule is a choice you can switch off.",
-  "author": { "name": "VectorNine Systems Inc. & Acid Secs Productions Inc." },
+  "author": {
+    "name": "VectorNine Systems Inc. & Acid Secs Productions Inc."
+  },
   "homepage": "https://github.com/AcidSecs/claude-builder-standards",
   "repository": "https://github.com/AcidSecs/claude-builder-standards",
   "license": "SEE LICENSE IN LICENSE",
-  "keywords": ["apps", "games", "design", "style", "licences", "reusable code", "guides"]
+  "keywords": [
+    "apps",
+    "games",
+    "design",
+    "style",
+    "licences",
+    "reusable code",
+    "guides"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }

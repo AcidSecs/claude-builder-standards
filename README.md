@@ -1,6 +1,7 @@
 # Builder Standards for Claude (vn-builder-standards)
 
 Created by Soroosh Hedayat
+
 Designed in Collaboration by: VectorNine Systems Inc. & Acid Secs Productions Inc.
 
 When Claude builds an app or game for you, it guesses how things should look. This plugin replaces the guessing with your choices. It asks a few quick questions, one at a time, about icons, buttons, colours and text. Apps and games are asked separately. You can answer "choose for me", or fill in the example sheet yourself.
