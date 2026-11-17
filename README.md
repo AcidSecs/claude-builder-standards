@@ -17,3 +17,7 @@ Nothing to install. It reads and writes one small settings file, `Documents\Clau
 Nothing.
 
 Switch it on or off with claude-setup-wizard.
+
+## Data handling
+
+It holds a style sheet that Claude follows when it builds things for you. It reads no personal data. Nothing is sent to the authors of this plugin. We run no server and receive no data, so nothing is retained by us. The plugin sends nothing to any outside service. Everything it makes stays on your own PC or in your own Google Drive and Claude account, and you can delete it any time.
